@@ -1,0 +1,107 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*  navbar */
+.navbar {
+    background-color: #333;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* card container */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+/*  cards */
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    background-color: bisque;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Style the navbar */
+.navbar {
+    background-color: #333;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/*  card container */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+/*  cards */
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+/*  footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
